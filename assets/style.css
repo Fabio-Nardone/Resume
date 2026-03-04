@@ -31,11 +31,11 @@ p {
   display: inline-block;
   margin-right: 18px;
   margin-top: 10px;
-  padding: 14px 26px;        /* ⬅️ più grande */
+  padding: 18px 30px;        /* ⬅️ più grande */
   border: 1.5px solid #222;
   text-decoration: none;
   color: #222;
-  font-size: 15px;           /* ⬅️ più leggibile */
+  font-size: 18px;           /* ⬅️ più leggibile */
   font-weight: 500;
   border-radius: 4px;
 }
@@ -47,6 +47,6 @@ p {
 
 footer {
   margin-top: 40px;
-  font-size: 12px;
+  font-size: 16px;
   color: #777;
 }
