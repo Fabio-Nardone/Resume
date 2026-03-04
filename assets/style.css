@@ -29,12 +29,15 @@ p {
 
 .buttons a {
   display: inline-block;
-  margin-right: 15px;
-  padding: 10px 18px;
-  border: 1px solid #222;
+  margin-right: 18px;
+  margin-top: 10px;
+  padding: 14px 26px;        /* ⬅️ più grande */
+  border: 1.5px solid #222;
   text-decoration: none;
   color: #222;
-  font-size: 14px;
+  font-size: 15px;           /* ⬅️ più leggibile */
+  font-weight: 500;
+  border-radius: 4px;
 }
 
 .buttons a:hover {
